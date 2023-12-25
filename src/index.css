@@ -20,3 +20,13 @@
   padding: 0%;
 }
 
+.text{
+      color: transparent;
+        -webkit-text-stroke-width: 1.5px;
+        -webkit-text-stroke-color: #42444C;
+        -webkit-text-fill-color: inherit;
+        background-clip: border-box;
+        font-size: 44vw;
+        font-weight: 500;
+        line-height: 1;
+}
