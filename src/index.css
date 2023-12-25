@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Nova-md;
+  src: url("../font/654a1e5217e59c6ac71220b2_NeueHaasUnica-Medium.ttf");
+}
+
+@font-face {
+  font-family: Nova-rg;
+  src: url('../font/654a1e520a147977f8a6d1c8_NeueHaasUnica-Regular.ttf');
+}
+
+
+
+*{
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+
